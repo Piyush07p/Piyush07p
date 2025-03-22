@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Patel</h1>
-<h3 align="center">A passionate Frontend developer, skilled in html, css , javascript, react.js, react-redux ,next.js</h3>
+<h3 align="center">A passionate Fullstack developer, skilled in html, css , javascript, react.js, react-redux ,next.js</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush07p" alt="piyush07p" /></a> </p>
 
